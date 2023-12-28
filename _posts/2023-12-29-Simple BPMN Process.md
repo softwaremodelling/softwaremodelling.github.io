@@ -1,4 +1,5 @@
 A simple BPMN process consists of  Start event, Activity and End event
+
 ![image](https://github.com/softwaremodelling/softwaremodelling.github.io/assets/14120650/b263fb12-6124-4531-ac8f-7125191ee2f8)
 
 Its a best practice to name the events. Note that the Start event, end event and activity are named. 
